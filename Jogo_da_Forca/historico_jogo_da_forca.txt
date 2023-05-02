@@ -1,0 +1,11 @@
+Palavra: CHAVE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: CHAVE - Vencedor: Desafiante a - Perdedor: Competidor b
+Palavra: ARVORE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: ARVORE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: ARVVOORE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: ARVORE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: ARVORE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: CHAVE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: 1 - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: ARVORE - Vencedor: Competidor b - Perdedor: Desafiante a
+Palavra: CHAVE - Vencedor: Competidor Pedro - Perdedor: Desafiante Bernardo
